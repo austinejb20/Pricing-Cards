@@ -1,5 +1,5 @@
 # Prcing Cards
-- A responsuve pricing cards layout designed to present different pricing plans in a clear and attractive way.
+A responsuve pricing cards layout designed to present different pricing plans in a clear and attractive way.
 - ## Features
 - Multiple pricing plan cards
 - Responsive design
